@@ -1,0 +1,11 @@
+.\snake.o: Snake.c
+.\snake.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\snake.o: ../inc/tm4c123gh6pm.h
+.\snake.o: ST7735.h
+.\snake.o: Random.h
+.\snake.o: PLL.h
+.\snake.o: ADC.h
+.\snake.o: Images.h
+.\snake.o: Sound.h
+.\snake.o: Timer0.h
+.\snake.o: Timer1.h
